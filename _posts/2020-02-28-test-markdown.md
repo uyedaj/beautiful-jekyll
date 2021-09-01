@@ -1,14 +1,14 @@
 ---
 layout: post
-title: Sample blog post
-subtitle: Each post also has a subtitle
-gh-repo: daattali/beautiful-jekyll
+title: Research summary
+subtitle: What do we do?
+gh-repo: uyedaj/beautiful-jekyll
 gh-badge: [star, fork, follow]
 tags: [test]
 comments: true
 ---
 
-This is a demo post to show you how to write blog posts with markdown.  I strongly encourage you to [take 5 minutes to learn how to write in markdown](https://markdowntutorial.com/) - it'll teach you how to transform regular text into bold/italics/headings/tables/etc.
+The tree of life provides a roadmap for understanding evolution and the history of life. The Uyeda lab uses this map to understand how biological processes give rise to the large-scale patterns of diversity we see in nature. We focus on establishing a better connection between microevolutionary processes and the models we use to understand trait evolution at the macroevolutionary scale. We use a combination of methods development, theoretical work and empirical studies to synthesize biological data across scales to obtain a better understanding of what causes long-term evolutionary change. By synthesizing data from microevolutionary, paleontological and phylogenetic comparative studies into a cohesive framework, we can gain important insights into understanding when and why adaptation succeeds or fails over long evolutionary time-scales. This is especially important today as rapid global change is driving rapid evolutionary change. We must understand how these processes scale up over time if we wish biodiversity to persist for generations millenia to come.
 
 **Here is some bold text**
 
